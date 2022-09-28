@@ -1,0 +1,27 @@
+#but{
+        
+       padding:5px;
+       color: black;
+       background-color: white;
+       border-radius: 8px;
+       border-color: black;
+    }
+    #but:hover{
+        color: whitesmoke;
+        background-color: red;
+        border-color: white;
+    }
+    
+     #butgreen{
+          
+       padding:5px;
+       color: black;
+       background-color: white;
+       border-radius: 8px;
+       border-color: black;
+    }
+    #butgreen:hover{
+        color: whitesmoke;
+        background-color: greenyellow;
+        border-color: white;
+    }

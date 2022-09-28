@@ -1,0 +1,10 @@
+   .table-fixed{
+        display: block;
+        height: 440px;
+        overflow-y: auto;
+    }
+    ::-webkit-scrollbar{
+            width: 0;
+
+        }
+    
